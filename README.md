@@ -23,12 +23,3 @@ Breast Cancer Diagnostic using Machine Learning Documentation
 
 7. Hyperparameter Tuning:
    Machine learning algorithms often have hyperparameters that need to be set before training the model. Hyperparameter tuning involves selecting the best combination of hyperparameters that optimize the model's performance. Techniques like grid search, random search, or Bayesian optimization can be employed to find the optimal hyperparameters.
-
-8. Model Deployment:
-   Once a satisfactory model is trained and evaluated, it can be deployed to make predictions on new, unseen data. The model can be integrated into a web application, API, or any other suitable deployment mechanism to allow users to input the relevant features and obtain predictions for breast cancer diagnosis.
-
-9. Model Monitoring and Maintenance:
-   It is important to regularly monitor the performance of the deployed model and update it if necessary. New data can be collected over time to retrain the model and incorporate the latest information for improved accuracy and reliability.
-
-10. Ethical Considerations:
-    When developing a machine learning model for breast cancer diagnosis, it is essential to consider ethical implications. Ensure that the model is fair, unbiased, and does not discriminate against any specific group. Privacy and data security should also be prioritized to protect patient information.
